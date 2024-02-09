@@ -1,1 +1,6 @@
-console.log(123123)
+console.log('Trien')
+
+// By hostname
+if(location.hostname == 'infinitylifee.com') {
+console.log(123123)  
+}
